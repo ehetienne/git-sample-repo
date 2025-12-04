@@ -1,4 +1,4 @@
-git init
+git init --> initialisation of git repository
 git status
 git add <PATH>
 git commit -m "Git commit message"
