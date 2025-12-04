@@ -1,5 +1,5 @@
 git init --> initialisation of git repository
-git status
+git status --> prints the status of the git repository
 git add <PATH>
 git commit -m "Git commit message"
 git push origin <branch name>
