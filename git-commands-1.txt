@@ -6,3 +6,7 @@ git push origin <branch name>
 git pull
 git reset --hard
 git clean
+
+Change 2
+
+Without change 1
