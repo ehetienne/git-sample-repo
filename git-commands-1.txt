@@ -8,3 +8,6 @@ git reset --hard
 git clean
 
 Some changes 1
+Change 2
+
+Without change 1
